@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+div {
+  max-width: 400px;
+  border: solid 1px #000;
+  border-radius: 20px;
+  
+}
